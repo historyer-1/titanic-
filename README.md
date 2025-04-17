@@ -1,4 +1,5 @@
 # 数据归约作业-泰塔尼克号幸存预测
+[github 仓库](https://github.com/historyer-1/titanic-.git)
 ## 第一步，数据集读入和处理
 
 用`data_reduced=data.drop(columns=columns_to_drop,axis=1)`删除了不需要的列。
